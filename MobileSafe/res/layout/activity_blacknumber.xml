@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_title"
+        style="@style/TitleStyle"
+        android:text="黑名单管理"
+        android:background="@drawable/home_heimingdan_bg" />
+
+    <Button
+        android:id="@+id/bt_add"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+		android:layout_marginTop="5dp"
+		android:layout_marginLeft="3dp"
+		android:layout_marginRight="3dp"
+        android:text="添加"
+        android:background="@drawable/btn_bg_blue" />
+
+    <ListView
+        android:id="@+id/lv_blacknumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+
+</LinearLayout>

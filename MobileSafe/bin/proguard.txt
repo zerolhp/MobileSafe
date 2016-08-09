@@ -1,0 +1,72 @@
+# view AndroidManifest.xml #generated:72
+-keep class com.lhp.mobilesafe.activity.AToolActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:77
+-keep class com.lhp.mobilesafe.activity.AnitVirusActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:74
+-keep class com.lhp.mobilesafe.activity.AppManagerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:73
+-keep class com.lhp.mobilesafe.activity.BlackNumberActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:78
+-keep class com.lhp.mobilesafe.activity.CacheClearActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:76
+-keep class com.lhp.mobilesafe.activity.CommonNumberQueryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:71
+-keep class com.lhp.mobilesafe.activity.ContactListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:64
+-keep class com.lhp.mobilesafe.activity.HomeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:75
+-keep class com.lhp.mobilesafe.activity.ProcessManagerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:67
+-keep class com.lhp.mobilesafe.activity.SettingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:68
+-keep class com.lhp.mobilesafe.activity.Setup1Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:69
+-keep class com.lhp.mobilesafe.activity.Setup2Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:70
+-keep class com.lhp.mobilesafe.activity.Setup3Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:55
+-keep class com.lhp.mobilesafe.activity.SplashActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:80
+-keep class com.lhp.mobilesafe.receiver.BootReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:85
+-keep class com.lhp.mobilesafe.receiver.SmsReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:93
+-keep class com.lhp.mobilesafe.service.BlackNumberService { <init>(...); }
+
+# view AndroidManifest.xml #generated:91
+-keep class com.lhp.mobilesafe.service.LocationService { <init>(...); }
+
+# view AndroidManifest.xml #generated:92
+-keep class com.lhp.mobilesafe.service.SuspendingViewService { <init>(...); }
+
+# view res/layout/activity_setting.xml #generated:13
+# view res/layout/activity_setting.xml #generated:22
+# view res/layout/activity_setting.xml #generated:31
+# view res/layout/activity_setup2.xml #generated:34
+-keep class com.lhp.mobilesafe.view.SettingItemView { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class net.youmi.android.AdBrowser { <init>(...); }
+
+# view AndroidManifest.xml #generated:106
+-keep class net.youmi.android.AdReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:101
+-keep class net.youmi.android.AdService { <init>(...); }
+
